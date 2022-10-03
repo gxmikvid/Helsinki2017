@@ -1,0 +1,7 @@
+C:\Users\cisco\source\repos\Helsinki2017\Helsinki2017\bin\Debug\Helsinki2017.exe.config
+C:\Users\cisco\source\repos\Helsinki2017\Helsinki2017\bin\Debug\Helsinki2017.exe
+C:\Users\cisco\source\repos\Helsinki2017\Helsinki2017\bin\Debug\Helsinki2017.pdb
+C:\Users\cisco\source\repos\Helsinki2017\Helsinki2017\obj\Debug\Helsinki2017.csprojAssemblyReference.cache
+C:\Users\cisco\source\repos\Helsinki2017\Helsinki2017\obj\Debug\Helsinki2017.csproj.CoreCompileInputs.cache
+C:\Users\cisco\source\repos\Helsinki2017\Helsinki2017\obj\Debug\Helsinki2017.exe
+C:\Users\cisco\source\repos\Helsinki2017\Helsinki2017\obj\Debug\Helsinki2017.pdb
